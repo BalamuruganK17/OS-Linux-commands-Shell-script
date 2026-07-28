@@ -3,6 +3,9 @@ Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
 
+## NAME:BALAMURUGAN.K
+## REGISTER NO:212225040042
+
 # AIM:
 To practice Linux Commands and Shell Scripting
 
@@ -1207,3 +1210,4 @@ fi
 
 
 # RESULT:
+The commands are executed successfully and the output was verified.
