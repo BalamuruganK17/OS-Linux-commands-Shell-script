@@ -1,10 +1,10 @@
+## NAME:BALAMURUGAN.K
+## REGISTER NO:212225040042
+
 # OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
-
-## NAME:BALAMURUGAN.K
-## REGISTER NO:212225040042
 
 # AIM:
 To practice Linux Commands and Shell Scripting
